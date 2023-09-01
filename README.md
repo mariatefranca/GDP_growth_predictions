@@ -29,7 +29,7 @@ Activate the virtual environment:
 
 ``source .env/bin/activate``
 
-Install the package used in this project:
+Install the packages used in this project:
 
 ``pip install -r src/requirements.txt``
 
