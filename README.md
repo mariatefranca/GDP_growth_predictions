@@ -11,7 +11,7 @@ This project aimed to evaluate the development of an EDA (exploratory data analy
 
 ## Predictions
 
-The predictions can be acessed in the file GDP_growth_mtf.csv in the path data.
+_modelThe predictions can be acessed in the file ``GDP_growth_mtf.csv`` in the path [data/07_model_output](https://github.com/mariatefranca/GDP_growth_predictions/tree/main/data/07_model_output).
 
 Due to the file size and type of some graphs(Plotly), it was not possible to render the desafio_ds_mtf.ipynb notebook on github. But, its rendering can be viewed at: [https://nbviewer.org/github/mariatefranca/GDP_growth_predictions/blob/main/notebooks/desafio_ds_mtf.ipynb](https://nbviewer.org/github/mariatefranca/GDP_growth_predictions/blob/main/notebooks/desafio_ds_mtf.ipynb)
 
