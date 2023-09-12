@@ -6,7 +6,7 @@ This project was built during the Indicium's Lighthouse Program.
 Aaron O'Neill, May 10, 2023
 
 This project aimed to evaluate the development of an EDA (exploratory data analysis), the knowledge/insights related to a time series, and predict the growth of the GDP index of each country in the years 2024-2028.   
- A comparison with values predicted by Statistica were made.
+ A comparison with values predicted by Statistica was made.
 
  
 <div style="text-align:center"><img src="https://github.com/mariatefranca/GDP_growth_predictions/blob/main/data/07_model_output/countryregion_plot.png" width=800/></div>
